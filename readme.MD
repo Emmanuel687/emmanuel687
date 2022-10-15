@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Koech</h1>
-<h3>I am a technology ethusiast with passion in emerging technologies.I have a well verse skills which I polish everyday through learning not only by my self but also sharing it with others.I enjoy working as a team and through collaborations where necessary,this makes me a result oriented software engineer who focuses to oversee projects completed in quality state.</h3>
-
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel687&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel687" /> </p>
 
