@@ -7,10 +7,6 @@
 
 - 🤝 I’m looking for help with **Datastructures && Algorithms**
 
-- 📫 How to reach me 
-
-**koechemmanuel2002@gmail.com,[Twitter: @___manu10](https://twitter.com/___manu10),
-[Instagram: @___man.u](https://www.instagram.com/___man.u/)**
 
 <div class="display>
 <h3 align="left">Certified with:</h3>
