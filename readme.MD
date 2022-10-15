@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Datastructures &&Algorithms**
+- 🤝 I’m looking for help with **Datastructures && Algorithms**
 
 - 📫 How to reach me 
 
