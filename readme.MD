@@ -13,6 +13,7 @@
 [Instagram: @___man.u](https://www.instagram.com/___man.u/)**
 
 <div class="display>
+
 <h3 align="left">Certified with:</h3>
 
 <img align="left" alt="MORINGA" width="40px" src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
