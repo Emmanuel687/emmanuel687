@@ -25,6 +25,7 @@
 
 <br>
 
+
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel687&show_icons=true&locale=en&layout=compact" alt="emmanuel687" /></p>
@@ -38,8 +39,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuel687&" alt="emmanuel687" /></p>
 
 <br><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuel687" alt="emmanuel687" /></a> </p>
 
 
 
