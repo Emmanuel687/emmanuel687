@@ -5,15 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel687&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel687" /> </p>
 
-<br>
 
-<p align="left"> <img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=600" >
+- 🌱 I’m currently learning **React**
 
-<br>
-
-- 🌱 I’m currently learning **Wordpress,React**
-
-- 🤝 I’m looking for help with **React, Wordpress**
+- 🤝 I’m looking for help with **Datastructures &&Algorithms**
 
 - 📫 How to reach me **koechemmanuel2002@gmail.com,[Twitter: @___manu10](https://twitter.com/___manu10),
 [Instagram: @___man.u](https://www.instagram.com/___man.u/)**
