@@ -7,7 +7,9 @@
 
 - 🤝 I’m looking for help with **Datastructures &&Algorithms**
 
-- 📫 How to reach me **koechemmanuel2002@gmail.com,[Twitter: @___manu10](https://twitter.com/___manu10),
+- 📫 How to reach me 
+
+**koechemmanuel2002@gmail.com,[Twitter: @___manu10](https://twitter.com/___manu10),
 [Instagram: @___man.u](https://www.instagram.com/___man.u/)**
 
 <br>
@@ -16,26 +18,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/emmanuel-koech-79368b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel687" height="30" width="40" /></a>
 </p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<br>
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="P5.JS" width="26px" src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" />
-<img align="" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
-<img align="" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-
-
-<br />
- 
-
-<br>
 
 <h3 align="left">Certified with:</h3>
 
