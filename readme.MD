@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Datastructures && Algorithms**
-
-
 
 <div>
 <h3 align="left">Certified with:</h3>
