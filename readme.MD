@@ -1,6 +1,6 @@
 <p align="left">Hi 👋, I'm Emmanuel Koech</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel687&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel687" /> </p>
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel687&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel687" /> </h1>
 
 
 - 🌱 I’m currently learning **React**
