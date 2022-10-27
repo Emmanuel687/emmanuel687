@@ -16,7 +16,7 @@
 <br>
 
 
-<h3 align="left" width="47%" >Connect with me:</h3>
+<h3 align="left" width="47px" >Connect with me:</h3>
 <p align="left" width="47%" >
 <a href="https://www.linkedin.com/in/emmanuel-koech-79368b21a/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel687" height="30" width="40" /></a>
 </p>
