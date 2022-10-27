@@ -11,7 +11,7 @@
 
 <h3 align="left" width="47%" >Certified with:</h3>
 
-<img align="left" width="47%" alt="MORINGA"  src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
+<img align="left" width="47px" alt="MORINGA"  src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
 
 <br>
 
