@@ -1,5 +1,3 @@
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel687&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel687" /> </h1>
-
 <p align="left">Hi 👋, I'm Emmanuel Koech</p>
 
 - 🌱 I’m currently learning **React**
