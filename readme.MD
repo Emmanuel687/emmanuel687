@@ -13,8 +13,7 @@
 
 
 <br />
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="230"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 I'm Emmanuel Koech a Cross Platform specializing in Front End Web Development
