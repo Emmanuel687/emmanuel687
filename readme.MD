@@ -8,6 +8,8 @@
   <img align="left" alt="Andrew's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
+
  I'm Emmanuel Koech a Cross Platform specializing in Front End Web Development
 
  I enjoy contributing to open source project,Also I enjoy the art of designing beautiful UI, 
