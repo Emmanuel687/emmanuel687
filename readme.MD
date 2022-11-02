@@ -20,11 +20,9 @@ I'm Emmanuel Koech a Cross Platform specializing in Front End Web Development
 
 I enjoy contributing to open source project,Also I enjoy the art of designing beautiful UI, 
 
-- 🌱 I’m currently learning **React**
-
 
 <div>
-<p align="left">Certified with:</p>
+<p align="left" font-weight="bold >Certified with:</p>
 
 <img align="left" alt="MORINGA" width="40px" src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
 
