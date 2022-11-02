@@ -1,4 +1,6 @@
-<p align="left">Hi 👋, I'm Emmanuel Koech</p>
+ I'm Emmanuel Koech a Cross Platform specializing in Front End Web Development
+
+ I enjoy contributing to open source project,Also I enjoy the art of designing beautiful UI, 
 
 - 🌱 I’m currently learning **React**
 
