@@ -37,11 +37,10 @@ I enjoy contributing to open source project to broaden my learning curve, Also I
 <br />
 <br />
 
+
 <div class="wrapper">
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=emmanuel687&theme=tokyonight">
-  
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emmanuel687&show_icons=true&theme=tokyonight">
-</div>
+ </div>
 
 
 
