@@ -18,7 +18,7 @@
 
 I'm Emmanuel Koech  a Cross Platform Javascript Developer specializing in Front End Web Development.
 
-I enjoy contributing to open source project to broaden my learning curve, Also I enjoy the art of designing beautiful UI during my free time.
+I enjoy contributing to open source project to broaden my learning curve, Also I enjoy the art of designing beautiful UI during my free time.I also take my time to learn new tech stacks.
 
 
 <div>
