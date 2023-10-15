@@ -29,4 +29,4 @@ Feel free to delve into my repositories to get a glimpse of my projects and cont
 
 ## 📊 GitHub Contribution Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuel687&count_private=true&show_icons=true&include_all_commits=true&line_height=28)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel687&count_private=true&show_icons=true&include_all_commits=true&line_height=28)
