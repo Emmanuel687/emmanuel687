@@ -14,7 +14,7 @@ I'm always open to connecting with like-minded individuals. You can find me on t
 
 ## 🎓 Certified With
 
-I proudly hold a certification from [Moringa School's Software Engineering Course](https://moringaschool.com/courses/software-engineering-course-online/). 
+I proudly hold a certification from [Moringa School's Software Engineering Course](https://moringaschool.com/courses/software-engineering-course-online/).
 
 ## 📚 Explore My Work
 
@@ -23,6 +23,10 @@ Feel free to delve into my repositories to get a glimpse of my projects and cont
 <div align="center">
   <h4 align="left" font-weight="bold">Certified with:</h4>
   <a href="https://moringaschool.com/courses/software-engineering-course-online/?gclid=EAIaIQobChMIvPCJub6Z-wIVRuN3Ch3Z3AlAEAAYASAAEgKBBvD_BwE">
-    <img align="left" alt="MORINGA" width="40px"  src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
+    <img align="left" alt="MORINGA" width="40px" src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
   </a>
 </div>
+
+## 📊 GitHub Contribution Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuel687&count_private=true&show_icons=true&include_all_commits=true&line_height=28)
