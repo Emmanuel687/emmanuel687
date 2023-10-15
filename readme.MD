@@ -27,5 +27,4 @@ Feel free to delve into my repositories to get a glimpse of my projects and cont
   </a>
 </div>
 
-## 📊 GitHub Contribution Stats
 
