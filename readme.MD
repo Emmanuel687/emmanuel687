@@ -23,10 +23,6 @@ Feel free to delve into my repositories to get a glimpse of my projects and cont
 
 [![Emmanuel's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emmanuel687&layout=compact)](https://wakatime.com/@emmanuel687)
 
-**Average Daily Coding Time:** ![Emmanuel's Average Daily Coding Time](https://wakatime.com/@emmanuel687/average-daily-coding-time)
-
-**Most Used Languages:**
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel687&layout=compact)](https://github.com/emmanuel687)
 
 
 <div align="center">
