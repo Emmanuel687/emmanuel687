@@ -27,4 +27,6 @@ Feel free to delve into my repositories to get a glimpse of my projects and cont
   </a>
 </div>
 
+[![Emmanuel's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emmanuel687)](https://wakatime.com/@emmanuel687)
+
 
