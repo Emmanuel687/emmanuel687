@@ -20,6 +20,15 @@ I proudly hold a certification from [Moringa School's Software Engineering Cours
 
 Feel free to delve into my repositories to get a glimpse of my projects and contributions. If you have any questions, ideas, or opportunities to collaborate, I'm just a message away. Thanks for visiting!
 
+
+[![Emmanuel's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emmanuel687&layout=compact)](https://wakatime.com/@emmanuel687)
+
+**Average Daily Coding Time:** ![Emmanuel's Average Daily Coding Time](https://wakatime.com/@emmanuel687/average-daily-coding-time)
+
+**Most Used Languages:**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel687&layout=compact)](https://github.com/emmanuel687)
+
+
 <div align="center">
   <h4 align="left" font-weight="bold">Certified with:</h4>
   <a href="https://moringaschool.com/courses/software-engineering-course-online/?gclid=EAIaIQobChMIvPCJub6Z-wIVRuN3Ch3Z3AlAEAAYASAAEgKBBvD_BwE">
@@ -27,6 +36,5 @@ Feel free to delve into my repositories to get a glimpse of my projects and cont
   </a>
 </div>
 
-[![Emmanuel's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emmanuel687)](https://wakatime.com/@emmanuel687)
 
 
