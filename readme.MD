@@ -3,7 +3,7 @@
 I'm a seasoned Software Developer with a strong passion for JavaScript. I thrive on tackling complex challenges, enhancing codebases, and staying ahead of the latest trends in the tech world. Here's a bit more about me:
 
 - 🧰 **Skills:** My expertise lies in debugging, refactoring, continuous learning, and researching new and emerging technologies.
-- 💡 **Interests:** I'm particularly enthusiastic about open-source technologies, especially in the realm of web development..
+- 💡 **Interests:** I'm particularly enthusiastic about open-source technologies, especially in the realm of web development...
 
 ## 🌐 Let's Connect
 
