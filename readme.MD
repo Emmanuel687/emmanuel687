@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Emmanuel Koech...
 
-I'm a seasoned Software Developer with a strong passion for JavaScript. I thrive on tackling complex challenges, enhancing codebases, and staying ahead of the latest trends in the tech world. Here's a bit more about me:
+I'm a seasoned Frontend Developer with a strong passion for JavaScript. I thrive on tackling complex challenges, enhancing codebases, and staying ahead of the latest trends in the tech world. My expertise extends to popular frameworks like Vue.js and React.js, both of which have significantly enriched my development toolkit.
 
 - 🧰 **Skills:** My expertise lies in debugging, refactoring, continuous learning, and researching new and emerging technologies.
 - 💡 **Interests:** I'm particularly enthusiastic about open-source technologies, especially in the realm of web development...
