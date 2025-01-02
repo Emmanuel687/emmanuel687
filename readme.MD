@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Emmanuel Koech.
+# 👋 Hello, I'm Emmanuel Koech
 
 I'm a seasoned Frontend Developer with a strong passion for JavaScript. I thrive on tackling complex challenges, enhancing codebases, and staying ahead of the latest trends in the tech world. My expertise extends to popular frameworks like Vue.js and React.js, both of which have significantly enriched my development toolkit..
 
