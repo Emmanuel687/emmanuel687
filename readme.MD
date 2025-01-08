@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Emmanuel Koech  
+99# 👋 Hello, I'm Emmanuel Koech  
 
 I'm a passionate Frontend Developer with a strong focus on JavaScript. I love tackling complex challenges, enhancing codebases, and keeping up with the latest trends in technology. My expertise includes popular frameworks like Vue.js and React.js, which have greatly enriched my development toolkit.  
 
@@ -26,5 +26,6 @@ Feel free to explore my repositories to see my projects and contributions. If yo
   <h4 align="left">Certified with:</h4>  
   <a href="https://moringaschool.com/courses/software-engineering-course-online/?gclid=EAIaIQobChMIvPCJub6Z-wIVRuN3Ch3Z3AlAEAAYASAAEgKBBvD_BwE">  
     <img alt="MORINGA" width="40px" src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />  
-  </a>  
+  </a> 
+ 
 </div>
