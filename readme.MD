@@ -31,4 +31,3 @@ Feel free to explore my repositories to see my projects and contributions. If yo
  
 </div>
 
-.
