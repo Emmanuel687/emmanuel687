@@ -1,9 +1,8 @@
- 👋 Hello, I'm Emmanuel Koech
+👋 Hello! I’m Emmanuel Koech, a dedicated Frontend Developer specializing in JavaScript. I thrive on solving complex challenges and enhancing codebases while staying updated on the latest tech trends. My expertise in frameworks like Vue.js and React.js has significantly broadened my development skills.
 
 
-I'm a passionate Frontend Developer with a strong focus on JavaScript. I love tackling complex challenges, enhancing codebases, and keeping up with the latest trends in technology. My expertise includes popular frameworks like Vue.js and React.js, which have greatly enriched my development toolkit.  
 
-- 🧰 **Skills:** Debugging, refactoring, continuous learning, and researching new and emerging technologies.  
+- 🧰 **Skills:** Debugging, refactoring, and continuous learning.
 - 💡 **Interests:** Enthusiastic about open-source technologies, particularly in web development.  
 
 ## 🌐 Let's Connect  
